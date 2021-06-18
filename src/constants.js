@@ -1,0 +1,9 @@
+export const BACKENDURL = "http://192.168.2.91:7234/";
+export const GETTEMP = BACKENDURL + "temp";
+export const POSTTEMP = BACKENDURL + "temp";
+export const GETHUMI = BACKENDURL + "humi";
+export const POSTHUMI = BACKENDURL + "humi";
+export const POSTLED = BACKENDURL + "led";
+export const GETHUMIDIFICATEUR = BACKENDURL + "humidificateur";
+export const GETHUMITHRES = BACKENDURL + "humithres";
+export const POSTHUMITHRES = BACKENDURL + "humithres";
